@@ -19,7 +19,7 @@
           <label for="remember_me" class="ml-2 block text-sm text-gray-900">Remember me</label>
         </div>
 
-        <div class="TEXT-SM">
+        <div class="text-sm">
           <a href="#" class="font-medium text-cyan-600 hover:text-cyan-500">Forgot your password?</a>
         </div>
       </div>
